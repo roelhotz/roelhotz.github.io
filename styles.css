@@ -1,7 +1,10 @@
 /* General Styles */
 body {
     margin: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Albert Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
     background-color: #1a1a1a;
     color: #ffffff;
     line-height: 1.6;
