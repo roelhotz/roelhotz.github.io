@@ -31,7 +31,10 @@ nav ul li {
 nav ul li a {
     color: #ffffff;
     text-decoration: none;
+    font-family: "Albert Sans", serif;
+    font-optical-sizing: auto;
     font-weight: <500>;
+    font-style: normal;
 }
 
 nav ul li a:hover {
