@@ -3,8 +3,8 @@ body {
     margin: 0;
     font-family: "Albert Sans", serif;
     font-optical-sizing: auto;
-    font-weight: <200>;
-    font-style: thin;
+    font-weight: <300>;
+    font-style: normal;
     background-color: #1a1a1a;
     color: #ffffff;
     line-height: 1.6;
@@ -31,7 +31,7 @@ nav ul li {
 nav ul li a {
     color: #ffffff;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: <700>;
 }
 
 nav ul li a:hover {
