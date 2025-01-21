@@ -9,37 +9,7 @@
 /* General Styles */
 body {
     margin: 0;
-    font-family: "Albert Sans", serif;
-    font-weight: <200>;
-    background-color: #1a1a1a;
-    color: #ffffff;
-    line-height: 1.6;
-}
 
-/* Header Styles */
-header {
-    background-color: #333;
-    padding: 10px 20px;
-}
-
-nav ul {
-
-}
-
-nav ul li {
-    margin: 0 15px;
-}
-
-nav ul li a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-nav ul li a:hover {
-    color: #00bcd4;
-}
-
-/* Main Section Styles */
 main {
     padding: 20px;
     display: flex;
