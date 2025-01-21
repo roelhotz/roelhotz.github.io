@@ -3,8 +3,8 @@ body {
     margin: 0;
     font-family: "Albert Sans", serif;
     font-optical-sizing: auto;
-    font-weight: 100;
-    font-style: thin;
+    font-weight: <100>;
+    font-style: normal;
     background-color: #1a1a1a;
     color: #ffffff;
     line-height: 1.6;
