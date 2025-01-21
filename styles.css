@@ -1,7 +1,10 @@
 /* General Styles */
 body {
     margin: 0;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family: "Albert Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
     background-color: #1a1a1a;
     color: #ffffff;
     line-height: 1.6;
