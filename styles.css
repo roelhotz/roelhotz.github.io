@@ -35,7 +35,7 @@ nav ul a {
     font-weight: 400;
 }
 
-nav ul a:hover {
+nav ul a a:hover {
     color: #00bcd4;
 }
 
