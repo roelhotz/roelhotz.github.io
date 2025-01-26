@@ -5,7 +5,7 @@ body {
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
-    font-size: 500%;
+    font-size: 250%;
     background-color: #1a1a1a;
     color: #ffffff;
     line-height: 1.6;
@@ -92,5 +92,5 @@ footer a:hover {
 }
 
 img {
-    width: 30px;
+    scale: 20%;
   }
