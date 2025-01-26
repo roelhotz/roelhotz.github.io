@@ -26,7 +26,7 @@ nav ul {
 }
 
 nav ul {
-    margin: 0 15px;
+    margin:10%;
 }
 
 nav ul a {
@@ -118,3 +118,4 @@ footer a:hover {
     background: #55ACEE;
     color: white;
   }
+
