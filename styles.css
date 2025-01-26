@@ -71,7 +71,7 @@ footer {
 footer a {
     color: #00bcd4;
     text-decoration: none;
-    width: 100%;
+    scale: 100%;
 }
 
 footer a:hover {
