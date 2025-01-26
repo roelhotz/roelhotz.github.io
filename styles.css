@@ -145,18 +145,18 @@ footer a {
     transition: width 0.5s ease-in-out;
 }
 
-.skill-bar[data-level="90"] .skill-bar-filled {
-    width: 90%;
-}
-
-.skill-bar[data-level="75"] .skill-bar-filled {
-    width: 75%;
+.skill-bar[data-level="80"] .skill-bar-filled {
+    width: 80%;
 }
 
 .skill-bar[data-level="60"] .skill-bar-filled {
     width: 60%;
 }
 
-.skill-bar[data-level="50"] .skill-bar-filled {
-    width: 50%;
+.skill-bar[data-level="80"] .skill-bar-filled {
+    width: 80%;
+}
+
+.skill-bar[data-level="10"] .skill-bar-filled {
+    width: 10%;
 }
