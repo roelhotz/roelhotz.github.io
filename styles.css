@@ -116,3 +116,51 @@ footer a {
     border-radius: 20%;
   }
 
+  .container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.skill {
+    margin-bottom: 20px;
+}
+
+.skill-name {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.skill-bar {
+    position: relative;
+    height: 20px;
+    background: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.skill-bar-filled {
+    height: 100%;
+    background: linear-gradient(90deg, #6a11cb, #2575fc);
+    width: 0;
+    transition: width 0.5s ease-in-out;
+}
+
+.skill-bar[data-level="90"] .skill-bar-filled {
+    width: 90%;
+}
+
+.skill-bar[data-level="75"] .skill-bar-filled {
+    width: 75%;
+}
+
+.skill-bar[data-level="60"] .skill-bar-filled {
+    width: 60%;
+}
+
+.skill-bar[data-level="50"] .skill-bar-filled {
+    width: 50%;
+}
