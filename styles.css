@@ -71,6 +71,7 @@ footer {
 footer a {
     color: #00bcd4;
     text-decoration: none;
+    width: 100%;
 }
 
 footer a:hover {
@@ -88,7 +89,3 @@ footer a:hover {
         margin: 10px 0;
     }
 }
-
-img {
-    width: 10%;
-  }
